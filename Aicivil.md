@@ -10,7 +10,7 @@
 
 ## Now comes the turn of civil engneering 
 
-### Machines created a very leass impact on civil engineering when compared to other fields of engineering but the new AI can replace labour workers in construction industry because most labour work is operating machines and it can be done automatic by AI like brick laying and construction using 3D printing  
+### Machines created a very leass impact on civil engineering when compared to other fields of engineering but the new AI can replace labour workers in construction industry because most labour work is operating machines and it can be done automatic by AI like brick laying and construction using 3D printing.  
 ![Display picture](Photos/3Dprint.png) ![Display picture](Photos/brick.png)
 
 # *Now I got a doubt that will AI replace civil engineers?*
