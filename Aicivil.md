@@ -21,7 +21,8 @@
   
    * Finish the project more efficient.
    * Finishing the project as soon as possible.
-   * Predictions become more accurate
+   * Predictions of esimations become more accurate.
+   * Increase in safety of project.
 
 * Disadvantages
 
